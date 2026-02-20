@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzIwOzEzMzE0NTM2Mjk5NTYwMzYxODI1MTswMDsn\"",
+  "packageId": "a4b63606-57f9-442e-aef5-ed24b503b1db",
+  "id": "b00de1c4-9f6a-4a54-999d-d377b0baea71",
+  "displayName": "Insight Works Event Library",
+  "publisher": "Insight Works",
+  "versionMajor": 1,
+  "versionMinor": 4,
+  "versionBuild": 9336,
+  "versionRevision": 1,
+  "isInstalled": true,
+  "publishedAs": "Global"
+}

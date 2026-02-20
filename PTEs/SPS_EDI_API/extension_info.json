@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzE5Ozg1NzM0NjY2ODgwOTM4MTcxMDUxOzAwOyc=\"",
+  "packageId": "8f63fe39-7f60-47fe-91e8-3cd4e3a378a5",
+  "id": "f991663a-c8df-4d9d-9630-098184d480c5",
+  "displayName": "SPS-EDI-API",
+  "publisher": "SPS Commerce",
+  "versionMajor": 2,
+  "versionMinor": 0,
+  "versionBuild": 2,
+  "versionRevision": 4,
+  "isInstalled": true,
+  "publishedAs": " PTE"
+}

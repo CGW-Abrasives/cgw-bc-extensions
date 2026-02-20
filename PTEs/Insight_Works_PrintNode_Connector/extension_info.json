@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzIwOzE0NTQzNzc1NDE5MjUyMzM1OTA2MTswMDsn\"",
+  "packageId": "33e5e36b-702e-4cf7-b653-4415d599f98f",
+  "id": "b0c8bcc7-2924-4cd2-8562-4e71ebd07323",
+  "displayName": "Insight Works PrintNode Connector",
+  "publisher": "Insight Works",
+  "versionMajor": 2,
+  "versionMinor": 3,
+  "versionBuild": 8917,
+  "versionRevision": 4,
+  "isInstalled": true,
+  "publishedAs": "Global"
+}

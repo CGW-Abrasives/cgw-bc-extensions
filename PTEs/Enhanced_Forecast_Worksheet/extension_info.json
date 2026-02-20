@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzE5OzUzMjEzNDIxNjA0MjUwNzA3NDAxOzAwOyc=\"",
+  "packageId": "0c6c9198-61a5-4ac7-bf6d-96f253bbd027",
+  "id": "97e74e31-5361-40d4-af71-58c140d057b4",
+  "displayName": "Enhanced Forecast Worksheet",
+  "publisher": "Insight Works",
+  "versionMajor": 3,
+  "versionMinor": 10,
+  "versionBuild": 9442,
+  "versionRevision": 1,
+  "isInstalled": true,
+  "publishedAs": "Global"
+}

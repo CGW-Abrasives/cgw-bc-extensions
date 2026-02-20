@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzIwOzE0NzU1NjMxNzAwNjM5NDA1NzgzMTswMDsn\"",
+  "packageId": "1292929f-02c7-4784-853e-a8293af46ff5",
+  "id": "56ff3422-7cc2-416c-bcd2-9bb56317d862",
+  "displayName": "Multi-Level BOM Viewer",
+  "publisher": "Insight Works",
+  "versionMajor": 3,
+  "versionMinor": 10,
+  "versionBuild": 9442,
+  "versionRevision": 1,
+  "isInstalled": true,
+  "publishedAs": "Global"
+}

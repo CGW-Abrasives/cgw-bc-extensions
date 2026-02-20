@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzIwOzE4MDc1MDMyNjI3OTkwOTAzOTQxMTswMDsn\"",
+  "packageId": "949795ea-601a-45db-885e-0aada3f29491",
+  "id": "c352dd99-aedc-486a-a214-98d5a3eae4bf",
+  "displayName": "Job Queue Error Handling",
+  "publisher": "Siberus",
+  "versionMajor": 1,
+  "versionMinor": 24,
+  "versionBuild": 5,
+  "versionRevision": 0,
+  "isInstalled": true,
+  "publishedAs": " PTE"
+}

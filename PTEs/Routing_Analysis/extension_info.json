@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzIwOzE1MTUzMjg2MDE2MDkxODQ2OTYzMTswMDsn\"",
+  "packageId": "cc87f879-c4df-45ad-9a49-08466f64db91",
+  "id": "6d7f8c71-a1bb-472e-b030-b9d1bb6eaec6",
+  "displayName": "Routing Analysis",
+  "publisher": "Insight Works",
+  "versionMajor": 3,
+  "versionMinor": 10,
+  "versionBuild": 9442,
+  "versionRevision": 1,
+  "isInstalled": true,
+  "publishedAs": "Global"
+}

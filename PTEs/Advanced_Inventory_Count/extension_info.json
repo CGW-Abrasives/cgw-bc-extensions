@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzE5OzcwNzA3NTI3OTQ2MTY4OTYwODIxOzAwOyc=\"",
+  "packageId": "34a42817-9e17-44da-b033-4eb1616fb044",
+  "id": "a0b5e9f5-6a4a-4867-aa3e-4b87c8c1c660",
+  "displayName": "Advanced Inventory Count",
+  "publisher": "Insight Works",
+  "versionMajor": 3,
+  "versionMinor": 4,
+  "versionBuild": 8943,
+  "versionRevision": 5,
+  "isInstalled": true,
+  "publishedAs": "Global"
+}

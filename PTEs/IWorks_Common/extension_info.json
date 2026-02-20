@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzIwOzExNDc1NjIxODM3MzYxMTQ2NzgwMTswMDsn\"",
+  "packageId": "54aa4f75-e0cf-49bd-85f9-0ee4965809ec",
+  "id": "ba1776ba-1198-4b4c-a61e-c4612f1880d5",
+  "displayName": "IWorks Common",
+  "publisher": "Insight Works",
+  "versionMajor": 2,
+  "versionMinor": 18,
+  "versionBuild": 9389,
+  "versionRevision": 1,
+  "isInstalled": true,
+  "publishedAs": "Global"
+}

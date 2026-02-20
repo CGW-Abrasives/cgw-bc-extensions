@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzE5Ozg0MjA2NDc2MTk4MjAyNjIwNjUxOzAwOyc=\"",
+  "packageId": "9d4fbdf7-0379-4dbd-878f-90a8a20ce22b",
+  "id": "d04cb6c5-68c8-41d7-8e25-824b48e14f04",
+  "displayName": "Warehouse Insight Advanced WMS",
+  "publisher": "Insight Works",
+  "versionMajor": 2,
+  "versionMinor": 15,
+  "versionBuild": 9422,
+  "versionRevision": 1,
+  "isInstalled": true,
+  "publishedAs": "Global"
+}

@@ -1,0 +1,13 @@
+{
+  "@odata.etag": "W/\"JzIwOzE3ODkyNDk1NDgwMjMyOTQwMTY2MTswMDsn\"",
+  "packageId": "1dc74363-6c9a-4a3c-99bc-a8908f2c1c82",
+  "id": "0a6db27b-c2c6-47eb-b62e-f82c0afe8d32",
+  "displayName": "Dynamic Ship: Fedex Integration",
+  "publisher": "Insight Works",
+  "versionMajor": 2,
+  "versionMinor": 8,
+  "versionBuild": 0,
+  "versionRevision": 250821,
+  "isInstalled": true,
+  "publishedAs": " PTE"
+}
