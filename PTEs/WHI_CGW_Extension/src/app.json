@@ -1,0 +1,43 @@
+{
+  "id": "4b099da2-86b0-4018-b484-4eb39e61a43b",
+  "name": "WHI CGW Extension",
+  "publisher": "Insight Works",
+  "version": "1.0.0.0",
+  "runtime": "7.0",
+  "showMyCode": true,
+  "target": "Cloud",
+  "platform": "27.0.45063.0",
+  "contextSensitiveHelpUrl": "https://AL.com/help/",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "name": "System Application",
+      "version": "20.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "20.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "ba1776ba-1198-4b4c-a61e-c4612f1880d5",
+      "name": "IWorks Common",
+      "version": "2.7.0.0",
+      "publisher": "Insight Works"
+    },
+    {
+      "id": "d04cb6c5-68c8-41d7-8e25-824b48e14f04",
+      "name": "Warehouse Insight Advanced WMS",
+      "version": "2.6.0.0",
+      "publisher": "Insight Works"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50950
+    }
+  ]
+}
