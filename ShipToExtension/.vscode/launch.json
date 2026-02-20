@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "CGW_Production",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Cloud",
+            "environmentName": "CGW_Production",
+            "startupObjectId": 22,
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    ]
+}
