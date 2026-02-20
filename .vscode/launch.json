@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Publish to CGW_Production",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Production",
+            "environmentName": "CGW_Production",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true
+        },
+        {
+            "name": "Publish to CGW-FP",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "CGW-FP",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true
+        }
+    ]
+}
